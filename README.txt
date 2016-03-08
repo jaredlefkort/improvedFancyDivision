@@ -1,0 +1,2 @@
+this program will take two user inputs, a dividend and a divisor, and print the result with the remainder. 
+The new added function will ask the user if they would like to continue after they have already divided. 
